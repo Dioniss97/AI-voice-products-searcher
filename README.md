@@ -49,7 +49,7 @@ Una aplicación web moderna que permite buscar productos utilizando comandos de 
 1. Clona el repositorio:
 ```bash
 git clone https://github.com/Dioniss97/AI-voice-products-searcher.git
-cd AI-voice-products-searcher/project
+cd AI-voice-products-searcher
 ```
 
 2. Instala las dependencias:
@@ -57,7 +57,7 @@ cd AI-voice-products-searcher/project
 npm install
 ```
 
-3. Crea un archivo `.env` en la carpeta `project` y añade tu API Key de OpenAI:
+3. Crea un archivo `.env` y añade tu API Key de OpenAI:
 ```
 VITE_OPENAI_API_KEY=tu_api_key_aquí
 ```
